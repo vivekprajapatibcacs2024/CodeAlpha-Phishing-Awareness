@@ -33,7 +33,8 @@ GitHub (Project Hosting)
 
 Project Files
 
-Phishing (.ppt)
+Phishing Awareness Training Module ppt
+video explanation
 README.md
 
 Author
